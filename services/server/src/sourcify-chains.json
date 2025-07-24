@@ -1,0 +1,10 @@
+{
+  "443": {
+    "sourcifyName": "TEN",
+    "supported": true,
+    "rpc": [{
+      "type": "APIKeyRPC",
+      "url": "https://testnet.ten.xyz/v1/?token={RPC_TOKEN}",
+      "apiKeyEnvName": "TEN_RPC_TOKEN"    }]
+  }
+}
